@@ -1,0 +1,4 @@
+python help
+https://stackoverflow.com/questions/40164815/why-does-the-print-function-stop-working-with-sleep-with-the-end-argument
+https://stackoverflow.com/questions/35168508/raw-input-is-not-defined
+https://www.programiz.com/python-programming/methods/string/encode
